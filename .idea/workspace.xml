@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="613bb200-7bb9-46ca-a130-f812d9bad7d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaDecisao/Exercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaDecisao/NumerosIguais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaDecisao/exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaepeticao/Exemlo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaepeticao/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaepeticao/Exemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaepeticao/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extruturaepeticao/exercio5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W2sTV6zBgx3uFKs5l6cJ1Hmd97" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/26451197866/Desktop/Java/Aula1",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.exercicio4">
+    <configuration name="Exemlo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturaepeticao.Exemlo1" />
+      <module name="Aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extruturaepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturaepeticao.Exemplo2" />
+      <module name="Aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extruturaepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturaepeticao.Exemplo3" />
+      <module name="Aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extruturaepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumerosIguais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturaDecisao.NumerosIguais" />
+      <module name="Aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extruturaDecisao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extruturaepeticao.exercicio4" />
+      <module name="Aula1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extruturaepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exercicio4" />
+        <item itemvalue="Application.Exemplo3" />
+        <item itemvalue="Application.Exemplo2" />
+        <item itemvalue="Application.Exemlo1" />
+        <item itemvalue="Application.NumerosIguais" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="613bb200-7bb9-46ca-a130-f812d9bad7d2" name="Changes" comment="" />
+      <created>1695942035313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695942035313</updated>
+    </task>
+    <servers />
+  </component>
+</project>
